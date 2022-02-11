@@ -1392,7 +1392,6 @@
 
 "@elastic/datemath@link:bazel-bin/packages/elastic-datemath":
   version "0.0.0"
-  uid ""
 
 "@elastic/ecs-helpers@^1.1.0":
   version "1.1.0"
@@ -1434,7 +1433,6 @@
 
 "@elastic/eslint-config-kibana@link:bazel-bin/packages/elastic-eslint-config-kibana":
   version "0.0.0"
-  uid ""
 
 "@elastic/eslint-plugin-eui@0.0.2":
   version "0.0.2"
@@ -1573,7 +1571,6 @@
 
 "@elastic/safer-lodash-set@link:bazel-bin/packages/elastic-safer-lodash-set":
   version "0.0.0"
-  uid ""
 
 "@elastic/search-ui-app-search-connector@^1.6.0":
   version "1.6.0"
@@ -2699,247 +2696,186 @@
 
 "@kbn/ace@link:bazel-bin/packages/kbn-ace":
   version "0.0.0"
-  uid ""
 
 "@kbn/alerts@link:bazel-bin/packages/kbn-alerts":
   version "0.0.0"
-  uid ""
 
 "@kbn/analytics@link:bazel-bin/packages/kbn-analytics":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-config-loader@link:bazel-bin/packages/kbn-apm-config-loader":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-utils@link:bazel-bin/packages/kbn-apm-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-code-parser@link:bazel-bin/packages/kbn-babel-code-parser":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-preset@link:bazel-bin/packages/kbn-babel-preset":
   version "0.0.0"
-  uid ""
 
 "@kbn/cli-dev-mode@link:bazel-bin/packages/kbn-cli-dev-mode":
   version "0.0.0"
-  uid ""
 
 "@kbn/config-schema@link:bazel-bin/packages/kbn-config-schema":
   version "0.0.0"
-  uid ""
 
 "@kbn/config@link:bazel-bin/packages/kbn-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/crypto@link:bazel-bin/packages/kbn-crypto":
   version "0.0.0"
-  uid ""
 
 "@kbn/dev-utils@link:bazel-bin/packages/kbn-dev-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/docs-utils@link:bazel-bin/packages/kbn-docs-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-archiver@link:bazel-bin/packages/kbn-es-archiver":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-query@link:bazel-bin/packages/kbn-es-query":
   version "0.0.0"
-  uid ""
 
 "@kbn/es@link:bazel-bin/packages/kbn-es":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-import-resolver-kibana@link:bazel-bin/packages/kbn-eslint-import-resolver-kibana":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-plugin-eslint@link:bazel-bin/packages/kbn-eslint-plugin-eslint":
   version "0.0.0"
-  uid ""
 
 "@kbn/expect@link:bazel-bin/packages/kbn-expect":
   version "0.0.0"
-  uid ""
 
 "@kbn/field-types@link:bazel-bin/packages/kbn-field-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/i18n@link:bazel-bin/packages/kbn-i18n":
   version "0.0.0"
-  uid ""
 
 "@kbn/interpreter@link:bazel-bin/packages/kbn-interpreter":
   version "0.0.0"
-  uid ""
 
 "@kbn/io-ts-utils@link:bazel-bin/packages/kbn-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/legacy-logging@link:bazel-bin/packages/kbn-legacy-logging":
   version "0.0.0"
-  uid ""
 
 "@kbn/logging@link:bazel-bin/packages/kbn-logging":
   version "0.0.0"
-  uid ""
 
 "@kbn/mapbox-gl@link:bazel-bin/packages/kbn-mapbox-gl":
   version "0.0.0"
-  uid ""
 
 "@kbn/monaco@link:bazel-bin/packages/kbn-monaco":
   version "0.0.0"
-  uid ""
 
 "@kbn/optimizer@link:bazel-bin/packages/kbn-optimizer":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-generator@link:bazel-bin/packages/kbn-plugin-generator":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-helpers@link:bazel-bin/packages/kbn-plugin-helpers":
   version "0.0.0"
-  uid ""
 
 "@kbn/pm@link:packages/kbn-pm":
   version "0.0.0"
-  uid ""
 
 "@kbn/rule-data-utils@link:bazel-bin/packages/kbn-rule-data-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-autocomplete@link:bazel-bin/packages/kbn-securitysolution-autocomplete":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-es-utils@link:bazel-bin/packages/kbn-securitysolution-es-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-hook-utils@link:bazel-bin/packages/kbn-securitysolution-hook-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-alerting-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-alerting-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-list-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-list-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-utils@link:bazel-bin/packages/kbn-securitysolution-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-api@link:bazel-bin/packages/kbn-securitysolution-list-api":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-constants@link:bazel-bin/packages/kbn-securitysolution-list-constants":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-hooks@link:bazel-bin/packages/kbn-securitysolution-list-hooks":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-utils@link:bazel-bin/packages/kbn-securitysolution-list-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-t-grid@link:bazel-bin/packages/kbn-securitysolution-t-grid":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-utils@link:bazel-bin/packages/kbn-securitysolution-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-http-tools@link:bazel-bin/packages/kbn-server-http-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-route-repository@link:bazel-bin/packages/kbn-server-route-repository":
   version "0.0.0"
-  uid ""
 
 "@kbn/spec-to-console@link:bazel-bin/packages/kbn-spec-to-console":
   version "0.0.0"
-  uid ""
 
 "@kbn/std@link:bazel-bin/packages/kbn-std":
   version "0.0.0"
-  uid ""
 
 "@kbn/storybook@link:bazel-bin/packages/kbn-storybook":
   version "0.0.0"
-  uid ""
 
 "@kbn/telemetry-tools@link:bazel-bin/packages/kbn-telemetry-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/test-subj-selector@link:bazel-bin/packages/kbn-test-subj-selector":
   version "0.0.0"
-  uid ""
 
 "@kbn/test@link:bazel-bin/packages/kbn-test":
   version "0.0.0"
-  uid ""
 
 "@kbn/timelion-grammar@link:bazel-bin/packages/kbn-timelion-grammar":
   version "0.0.0"
-  uid ""
 
 "@kbn/tinymath@link:bazel-bin/packages/kbn-tinymath":
   version "0.0.0"
-  uid ""
 
 "@kbn/typed-react-router-config@link:bazel-bin/packages/kbn-typed-react-router-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-framework@link:bazel-bin/packages/kbn-ui-framework":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-npm@link:bazel-bin/packages/kbn-ui-shared-deps-npm":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-src@link:bazel-bin/packages/kbn-ui-shared-deps-src":
   version "0.0.0"
-  uid ""
 
 "@kbn/utility-types@link:bazel-bin/packages/kbn-utility-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/utils@link:bazel-bin/packages/kbn-utils":
   version "0.0.0"
-  uid ""
 
 "@loaders.gl/core@2.3.1", "@loaders.gl/core@^2.3.1":
   version "2.3.1"
@@ -7026,6 +6962,11 @@ ansi-regex@^5.0.0:
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-5.0.0.tgz#388539f55179bf39339c81af30a654d69f87cb75"
   integrity sha512-bY6fj56OUQ0hU1KjFNDQuJFezqKdrAyFdIevADiqrWHwSlbmBNMHp5ak2f40Pm8JTFyM2mqxkG6ngkHO11f/lg==
 
+ansi-regex@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-5.0.1.tgz#082cb2c89c9fe8659a311a53bd6a4dc5301db304"
+  integrity sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==
+
 ansi-styles@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-1.1.0.tgz#eaecbf66cd706882760b2f4691582b8f55d7a7de"
@@ -7169,6 +7110,11 @@ aproba@^1.0.3, aproba@^1.1.1:
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-1.2.0.tgz#6802e6264efd18c790a1b0d517f0f2627bf2c94a"
   integrity sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw==
 
+"aproba@^1.0.3 || ^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/aproba/-/aproba-2.0.0.tgz#52520b8ae5b569215b354efc0caa3fe1e45a8adc"
+  integrity sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ==
+
 arch@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/arch/-/arch-2.1.2.tgz#0c52bbe7344bb4fa260c443d2cbad9c00ff2f0bf"
@@ -7207,6 +7153,14 @@ archy@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/archy/-/archy-1.0.0.tgz#f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40"
   integrity sha1-+cjBN1fMHde8N5rHeyxipcKGjEA=
+
+are-we-there-yet@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/are-we-there-yet/-/are-we-there-yet-2.0.0.tgz#372e0e7bd279d8e94c653aaa1f67200884bf3e1c"
+  integrity sha512-Ci/qENmwHnsYo9xKIcUJN5LeDKdJ6R1Z1j9V/J5wyq8nh/mYPEpIKJbBZXtZjG04HiK7zV/p6Vs9952MrMeUIw==
+  dependencies:
+    delegates "^1.0.0"
+    readable-stream "^3.6.0"
 
 are-we-there-yet@~1.1.2:
   version "1.1.4"
@@ -9285,10 +9239,10 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@^4.0.0, chalk@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
-  integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
+chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
+  integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
@@ -9801,7 +9755,7 @@ color-string@^1.4.0, color-string@^1.5.2, color-string@^1.5.4:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
 
-color-support@^1.1.3:
+color-support@^1.1.2, color-support@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/color-support/-/color-support-1.1.3.tgz#93834379a1cc9a0c61f82f52f0d04322251bd5a2"
   integrity sha512-qiBjkpbMLO/HL68y+lh4q0/O1MZFj2RX6X/KmMa3+gJD3z+WwI1ZzDHysvqHGS3mP6mznPckpXmw1nI9cJjyRg==
@@ -10081,7 +10035,7 @@ console-browserify@^1.1.0:
   dependencies:
     date-now "^0.1.4"
 
-console-control-strings@^1.0.0, console-control-strings@~1.1.0:
+console-control-strings@^1.0.0, console-control-strings@^1.1.0, console-control-strings@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
@@ -14236,6 +14190,21 @@ fuse.js@^3.6.1:
   resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-3.6.1.tgz#7de85fdd6e1b3377c23ce010892656385fd9b10c"
   integrity sha512-hT9yh/tiinkmirKrlv4KWOjztdoZo1mx9Qh4KvWqC7isoXwdUY3PNWUxceF4/qO9R6riA2C29jdTOeQOIROjgw==
 
+gauge@^3.0.0:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/gauge/-/gauge-3.0.2.tgz#03bf4441c044383908bcfa0656ad91803259b395"
+  integrity sha512-+5J6MS/5XksCuXq++uFRsnUd7Ovu1XenbeuIuNRJxYWjgQbPuFhT14lAvsWfqfAmnwluf1OwMjz39HjfLPci0Q==
+  dependencies:
+    aproba "^1.0.3 || ^2.0.0"
+    color-support "^1.1.2"
+    console-control-strings "^1.0.0"
+    has-unicode "^2.0.1"
+    object-assign "^4.1.1"
+    signal-exit "^3.0.0"
+    string-width "^4.2.3"
+    strip-ansi "^6.0.1"
+    wide-align "^1.1.2"
+
 gauge@~2.7.3:
   version "2.7.4"
   resolved "https://registry.yarnpkg.com/gauge/-/gauge-2.7.4.tgz#2c03405c7538c39d7eb37b317022e325fb018bf7"
@@ -15040,7 +15009,7 @@ has-symbols@^1.0.0, has-symbols@^1.0.1, has-symbols@^1.0.2:
   resolved "https://registry.yarnpkg.com/has-symbols/-/has-symbols-1.0.2.tgz#165d3070c00309752a1236a479331e3ac56f1423"
   integrity sha512-chXa79rL/UC2KlX17jo3vRGz0azaWEx5tGqZg5pO3NUyEJVB17dMruQlzCCOfUvElghKcm5194+BCRvi2Rv/Gw==
 
-has-unicode@^2.0.0:
+has-unicode@^2.0.0, has-unicode@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/has-unicode/-/has-unicode-2.0.1.tgz#e0e6fe6a28cf51138855e086d1691e771de2a8b9"
   integrity sha1-4Ob+aijPUROIVeCG0Wkedx3iqLk=
@@ -19711,12 +19680,7 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-nan@^2.13.2, nan@^2.14.0:
-  version "2.14.1"
-  resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.1.tgz#d7be34dfa3105b91494c3147089315eff8874b01"
-  integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
-
-nan@^2.14.2:
+nan@^2.13.2, nan@^2.14.0, nan@^2.14.2:
   version "2.14.2"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
   integrity sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==
@@ -20054,13 +20018,13 @@ node-releases@^1.1.70:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.71.tgz#cb1334b179896b1c89ecfdd4b725fb7bbdfc7dbb"
   integrity sha512-zR6HoT6LrLCRBwukmrVbHv0EpEQjksO6GmFcZQQuCAy139BEsoVKPYnf3jongYW83fAa1torLGYwxxky/p28sg==
 
-node-sass@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-6.0.1.tgz#cad1ccd0ce63e35c7181f545d8b986f3a9a887fe"
-  integrity sha512-f+Rbqt92Ful9gX0cGtdYwjTrWAaGURgaK5rZCWOgCNyGWusFYHhbqCCBoFBeat+HKETOU02AyTxNhJV0YZf2jQ==
+node-sass@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-7.0.0.tgz#33ee7c2df299d51f682f13d79f3d2a562225788e"
+  integrity sha512-6yUnsD3L8fVbgMX6nKQqZkjRcG7a/PpmF0pEyeWf+BgbTj2ToJlCYrnUifL2KbjV5gIY22I3oppahBWA3B+jUg==
   dependencies:
     async-foreach "^0.1.3"
-    chalk "^1.1.1"
+    chalk "^4.1.2"
     cross-spawn "^7.0.3"
     gaze "^1.0.0"
     get-stdin "^4.0.1"
@@ -20069,7 +20033,7 @@ node-sass@^6.0.1:
     meow "^9.0.0"
     nan "^2.13.2"
     node-gyp "^7.1.0"
-    npmlog "^4.0.0"
+    npmlog "^5.0.0"
     request "^2.88.0"
     sass-graph "2.2.5"
     stdout-stream "^1.4.0"
@@ -20210,7 +20174,7 @@ npm-run-path@^4.0.0:
   dependencies:
     path-key "^3.0.0"
 
-npmlog@^4.0.0, npmlog@^4.1.2:
+npmlog@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/npmlog/-/npmlog-4.1.2.tgz#08a7f2a8bf734604779a9efa4ad5cc717abb954b"
   integrity sha512-2uUqazuKlTaSI/dC8AzicUck7+IrEaOnN/e0jd3Xtt1KcGpwx30v50mL7oPyr/h9bL3E4aZccVwpwP+5W9Vjkg==
@@ -20219,6 +20183,16 @@ npmlog@^4.0.0, npmlog@^4.1.2:
     console-control-strings "~1.1.0"
     gauge "~2.7.3"
     set-blocking "~2.0.0"
+
+npmlog@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/npmlog/-/npmlog-5.0.1.tgz#f06678e80e29419ad67ab964e0fa69959c1eb8b0"
+  integrity sha512-AqZtDUWOMKs1G/8lwylVjrdYgqA4d9nu8hc+0gzRxlDb1I10+FHBGMXs6aiQHFdCUUlqH99MUMuLfzWDNDtfxw==
+  dependencies:
+    are-we-there-yet "^2.0.0"
+    console-control-strings "^1.1.0"
+    gauge "^3.0.0"
+    set-blocking "^2.0.0"
 
 nth-check@^1.0.2, nth-check@~1.0.1:
   version "1.0.2"
@@ -25706,6 +25680,15 @@ string-width@^1.0.1, string-width@^1.0.2:
     is-fullwidth-code-point "^2.0.0"
     strip-ansi "^4.0.0"
 
+"string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
+  integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
+  dependencies:
+    emoji-regex "^8.0.0"
+    is-fullwidth-code-point "^3.0.0"
+    strip-ansi "^6.0.1"
+
 string-width@^3.0.0, string-width@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-3.1.0.tgz#22767be21b62af1081574306f69ac51b62203961"
@@ -25850,6 +25833,13 @@ strip-ansi@^4.0.0:
   integrity sha1-qEeQIusaw2iocTibY1JixQXuNo8=
   dependencies:
     ansi-regex "^3.0.0"
+
+strip-ansi@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
+  integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
+  dependencies:
+    ansi-regex "^5.0.1"
 
 strip-bom-string@1.X:
   version "1.0.0"
@@ -28915,6 +28905,13 @@ wide-align@1.1.3, wide-align@^1.1.0:
   integrity sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA==
   dependencies:
     string-width "^1.0.2 || 2"
+
+wide-align@^1.1.2:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/wide-align/-/wide-align-1.1.5.tgz#df1d4c206854369ecf3c9a4898f1b23fbd9d15d3"
+  integrity sha512-eDMORYaPNZ4sQIuuYPDHdQvf4gyCF9rEEV/yPxGfwPkRodwEgiMUUXTx/dex+Me0wxx53S+NgUHaP7y3MGlDmg==
+  dependencies:
+    string-width "^1.0.2 || 2 || 3 || 4"
 
 widest-line@^2.0.1:
   version "2.0.1"
