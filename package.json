@@ -749,7 +749,7 @@
     "jest-styled-components": "^7.0.3",
     "jest-when": "^3.2.1",
     "jimp": "^0.14.0",
-    "jsdom": "13.1.0",
+    "jsdom": "16.5.0",
     "json5": "^1.0.1",
     "jsondiffpatch": "0.4.1",
     "license-checker": "^16.0.0",
