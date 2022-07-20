@@ -808,7 +808,7 @@
     "tape": "^5.0.1",
     "tar-fs": "^2.1.0",
     "tempy": "^0.3.0",
-    "terser": "^5.7.1",
+    "terser": "^5.14.2",
     "terser-webpack-plugin": "^2.1.2",
     "tough-cookie": "^4.0.0",
     "ts-loader": "^7.0.5",
