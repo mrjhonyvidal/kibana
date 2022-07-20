@@ -1392,7 +1392,6 @@
 
 "@elastic/datemath@link:bazel-bin/packages/elastic-datemath":
   version "0.0.0"
-  uid ""
 
 "@elastic/ecs-helpers@^1.1.0":
   version "1.1.0"
@@ -1434,7 +1433,6 @@
 
 "@elastic/eslint-config-kibana@link:bazel-bin/packages/elastic-eslint-config-kibana":
   version "0.0.0"
-  uid ""
 
 "@elastic/eslint-plugin-eui@0.0.2":
   version "0.0.2"
@@ -1573,7 +1571,6 @@
 
 "@elastic/safer-lodash-set@link:bazel-bin/packages/elastic-safer-lodash-set":
   version "0.0.0"
-  uid ""
 
 "@elastic/search-ui-app-search-connector@^1.6.0":
   version "1.6.0"
@@ -2697,249 +2694,228 @@
     "@babel/runtime" "^7.7.2"
     regenerator-runtime "^0.13.3"
 
+"@jridgewell/gen-mapping@^0.3.0":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz#c1aedc61e853f2bb9f5dfe6d4442d3b565b253b9"
+  integrity sha512-mh65xKQAzI6iBcFzwv28KVWSmCkdRBWoOh+bYQGW3+6OZvbbN3TqMGo5hqYxQniRcH9F2VZIoJCm4pa3BPDK/A==
+  dependencies:
+    "@jridgewell/set-array" "^1.0.1"
+    "@jridgewell/sourcemap-codec" "^1.4.10"
+    "@jridgewell/trace-mapping" "^0.3.9"
+
+"@jridgewell/resolve-uri@^3.0.3":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
+  integrity sha512-F2msla3tad+Mfht5cJq7LSXcdudKTWCVYUgw6pLFOOHSTtZlj6SWNYAp+AhuqLmWdBO2X5hPrLcu8cVP8fy28w==
+
+"@jridgewell/set-array@^1.0.1":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/set-array/-/set-array-1.1.2.tgz#7c6cf998d6d20b914c0a55a91ae928ff25965e72"
+  integrity sha512-xnkseuNADM0gt2bs+BvhO0p78Mk762YnZdsuzFV018NoG1Sj1SCQvpSqa7XUaTam5vAGasABV9qXASMKnFMwMw==
+
+"@jridgewell/source-map@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@jridgewell/source-map/-/source-map-0.3.2.tgz#f45351aaed4527a298512ec72f81040c998580fb"
+  integrity sha512-m7O9o2uR8k2ObDysZYzdfhb08VuEml5oWGiosa1VdaPZ/A6QyPkAJuwN0Q1lhULOf6B7MtQmHENS743hWtCrgw==
+  dependencies:
+    "@jridgewell/gen-mapping" "^0.3.0"
+    "@jridgewell/trace-mapping" "^0.3.9"
+
+"@jridgewell/sourcemap-codec@^1.4.10":
+  version "1.4.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz#add4c98d341472a289190b424efbdb096991bb24"
+  integrity sha512-XPSJHWmi394fuUuzDnGz1wiKqWfo1yXecHQMRf2l6hztTO+nPru658AyDngaBe7isIxEkRsPR3FZh+s7iVa4Uw==
+
+"@jridgewell/trace-mapping@^0.3.9":
+  version "0.3.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.14.tgz#b231a081d8f66796e475ad588a1ef473112701ed"
+  integrity sha512-bJWEfQ9lPTvm3SneWwRFVLzrh6nhjwqw7TUFFBEMzwvg7t7PCDenf2lDwqo4NQXzdpgBXyFgDWnQA+2vkruksQ==
+  dependencies:
+    "@jridgewell/resolve-uri" "^3.0.3"
+    "@jridgewell/sourcemap-codec" "^1.4.10"
+
 "@kbn/ace@link:bazel-bin/packages/kbn-ace":
   version "0.0.0"
-  uid ""
 
 "@kbn/alerts@link:bazel-bin/packages/kbn-alerts":
   version "0.0.0"
-  uid ""
 
 "@kbn/analytics@link:bazel-bin/packages/kbn-analytics":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-config-loader@link:bazel-bin/packages/kbn-apm-config-loader":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-utils@link:bazel-bin/packages/kbn-apm-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-code-parser@link:bazel-bin/packages/kbn-babel-code-parser":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-preset@link:bazel-bin/packages/kbn-babel-preset":
   version "0.0.0"
-  uid ""
 
 "@kbn/cli-dev-mode@link:bazel-bin/packages/kbn-cli-dev-mode":
   version "0.0.0"
-  uid ""
 
 "@kbn/config-schema@link:bazel-bin/packages/kbn-config-schema":
   version "0.0.0"
-  uid ""
 
 "@kbn/config@link:bazel-bin/packages/kbn-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/crypto@link:bazel-bin/packages/kbn-crypto":
   version "0.0.0"
-  uid ""
 
 "@kbn/dev-utils@link:bazel-bin/packages/kbn-dev-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/docs-utils@link:bazel-bin/packages/kbn-docs-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-archiver@link:bazel-bin/packages/kbn-es-archiver":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-query@link:bazel-bin/packages/kbn-es-query":
   version "0.0.0"
-  uid ""
 
 "@kbn/es@link:bazel-bin/packages/kbn-es":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-import-resolver-kibana@link:bazel-bin/packages/kbn-eslint-import-resolver-kibana":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-plugin-eslint@link:bazel-bin/packages/kbn-eslint-plugin-eslint":
   version "0.0.0"
-  uid ""
 
 "@kbn/expect@link:bazel-bin/packages/kbn-expect":
   version "0.0.0"
-  uid ""
 
 "@kbn/field-types@link:bazel-bin/packages/kbn-field-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/i18n@link:bazel-bin/packages/kbn-i18n":
   version "0.0.0"
-  uid ""
 
 "@kbn/interpreter@link:bazel-bin/packages/kbn-interpreter":
   version "0.0.0"
-  uid ""
 
 "@kbn/io-ts-utils@link:bazel-bin/packages/kbn-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/legacy-logging@link:bazel-bin/packages/kbn-legacy-logging":
   version "0.0.0"
-  uid ""
 
 "@kbn/logging@link:bazel-bin/packages/kbn-logging":
   version "0.0.0"
-  uid ""
 
 "@kbn/mapbox-gl@link:bazel-bin/packages/kbn-mapbox-gl":
   version "0.0.0"
-  uid ""
 
 "@kbn/monaco@link:bazel-bin/packages/kbn-monaco":
   version "0.0.0"
-  uid ""
 
 "@kbn/optimizer@link:bazel-bin/packages/kbn-optimizer":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-generator@link:bazel-bin/packages/kbn-plugin-generator":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-helpers@link:bazel-bin/packages/kbn-plugin-helpers":
   version "0.0.0"
-  uid ""
 
 "@kbn/pm@link:packages/kbn-pm":
   version "0.0.0"
-  uid ""
 
 "@kbn/rule-data-utils@link:bazel-bin/packages/kbn-rule-data-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-autocomplete@link:bazel-bin/packages/kbn-securitysolution-autocomplete":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-es-utils@link:bazel-bin/packages/kbn-securitysolution-es-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-hook-utils@link:bazel-bin/packages/kbn-securitysolution-hook-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-alerting-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-alerting-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-list-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-list-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-utils@link:bazel-bin/packages/kbn-securitysolution-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-api@link:bazel-bin/packages/kbn-securitysolution-list-api":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-constants@link:bazel-bin/packages/kbn-securitysolution-list-constants":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-hooks@link:bazel-bin/packages/kbn-securitysolution-list-hooks":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-utils@link:bazel-bin/packages/kbn-securitysolution-list-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-t-grid@link:bazel-bin/packages/kbn-securitysolution-t-grid":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-utils@link:bazel-bin/packages/kbn-securitysolution-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-http-tools@link:bazel-bin/packages/kbn-server-http-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-route-repository@link:bazel-bin/packages/kbn-server-route-repository":
   version "0.0.0"
-  uid ""
 
 "@kbn/spec-to-console@link:bazel-bin/packages/kbn-spec-to-console":
   version "0.0.0"
-  uid ""
 
 "@kbn/std@link:bazel-bin/packages/kbn-std":
   version "0.0.0"
-  uid ""
 
 "@kbn/storybook@link:bazel-bin/packages/kbn-storybook":
   version "0.0.0"
-  uid ""
 
 "@kbn/telemetry-tools@link:bazel-bin/packages/kbn-telemetry-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/test-subj-selector@link:bazel-bin/packages/kbn-test-subj-selector":
   version "0.0.0"
-  uid ""
 
 "@kbn/test@link:bazel-bin/packages/kbn-test":
   version "0.0.0"
-  uid ""
 
 "@kbn/timelion-grammar@link:bazel-bin/packages/kbn-timelion-grammar":
   version "0.0.0"
-  uid ""
 
 "@kbn/tinymath@link:bazel-bin/packages/kbn-tinymath":
   version "0.0.0"
-  uid ""
 
 "@kbn/typed-react-router-config@link:bazel-bin/packages/kbn-typed-react-router-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-framework@link:bazel-bin/packages/kbn-ui-framework":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-npm@link:bazel-bin/packages/kbn-ui-shared-deps-npm":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-src@link:bazel-bin/packages/kbn-ui-shared-deps-src":
   version "0.0.0"
-  uid ""
 
 "@kbn/utility-types@link:bazel-bin/packages/kbn-utility-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/utils@link:bazel-bin/packages/kbn-utils":
   version "0.0.0"
-  uid ""
 
 "@loaders.gl/core@2.3.1", "@loaders.gl/core@^2.3.1":
   version "2.3.1"
@@ -6738,6 +6714,11 @@ acorn@^7.0.0, acorn@^7.1.0, acorn@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.4.0.tgz#e1ad486e6c54501634c6c397c5c121daa383607c"
   integrity sha512-+G7P8jJmCHr+S+cLfQxygbWhXy+8YTVGzAkpEbcLo2mLoL7tij/VG41QSHACSf5QgYRhMZYHuNc6drJaO0Da+w==
 
+acorn@^8.5.0:
+  version "8.7.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.1.tgz#0197122c843d1bf6d0a5e83220a788f278f63c30"
+  integrity sha512-Xx54uLJQZ19lKygFXOWsscKUbsBZW0CPykPhVQdhIeIwrbPmJzqeASDInc8nKBnp/JT6igTs82qPXz069H8I/A==
+
 address@1.1.2, address@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/address/-/address-1.1.2.tgz#bf1116c9c758c51b7a933d296b72c221ed9428b6"
@@ -9905,12 +9886,7 @@ commander@^4.0.1, commander@^4.1.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.1.tgz#9fd602bd936294e9e9ef46a3f4d6964044b18068"
   integrity sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==
 
-commander@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-5.0.0.tgz#dbf1909b49e5044f8fdaf0adc809f0c0722bdfd0"
-  integrity sha512-JrDGPAKjMGSP1G0DUoaceEJ3DZgAfr/q6X7FVk4+U5KxUSKviYGM2k6zWkfyyBHy5rAtzgYJFa1ro2O9PtoxwQ==
-
-commander@^5.1.0:
+commander@^5.0.0, commander@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
   integrity sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==
@@ -25157,10 +25133,10 @@ source-map-support@^0.3.2:
   dependencies:
     source-map "0.1.32"
 
-source-map-support@^0.5.16, source-map-support@^0.5.19, source-map-support@^0.5.6, source-map-support@~0.5.12, source-map-support@~0.5.19:
-  version "0.5.19"
-  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.19.tgz#a98b62f86dcaf4f67399648c085291ab9e8fed61"
-  integrity sha512-Wonm7zOCIJzBGQdB+thsPar0kYuCIzYvxZwlBa87yi/Mdjv7Tip2cyVbLj5o0cFPN4EVkuTwb3GDDyUx2DGnGw==
+source-map-support@^0.5.16, source-map-support@^0.5.19, source-map-support@^0.5.6, source-map-support@~0.5.12, source-map-support@~0.5.19, source-map-support@~0.5.20:
+  version "0.5.21"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.21.tgz#04fe7c7f9e1ed2d662233c28cb2b35b9f63f6e4f"
+  integrity sha512-uBHU3L3czsIyYXKX88fdrGovxdSCoTGDRZ6SYXtSRxLZUzHg5P/66Ht6uoUlHu9EZod+inXhKo3qQgwXUT/y1w==
   dependencies:
     buffer-from "^1.0.0"
     source-map "^0.6.0"
@@ -26522,14 +26498,15 @@ terser@^4.1.2, terser@^4.6.12, terser@^4.6.3, terser@^4.8.0:
     source-map "~0.6.1"
     source-map-support "~0.5.12"
 
-terser@^5.7.1:
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.7.1.tgz#2dc7a61009b66bb638305cb2a824763b116bf784"
-  integrity sha512-b3e+d5JbHAe/JSjwsC3Zn55wsBIM7AsHLjKxT31kGCldgbpFePaFo+PiddtO6uwRZWRw7sPXmAN8dTW61xmnSg==
+terser@^5.14.2:
+  version "5.14.2"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.14.2.tgz#9ac9f22b06994d736174f4091aa368db896f1c10"
+  integrity sha512-oL0rGeM/WFQCUd0y2QrWxYnq7tfSuKBiqTjRPWrRgB46WD/kiwHwF8T23z78H6Q6kGCuuHcPB+KULHRdxvVGQA==
   dependencies:
+    "@jridgewell/source-map" "^0.3.2"
+    acorn "^8.5.0"
     commander "^2.20.0"
-    source-map "~0.7.2"
-    source-map-support "~0.5.19"
+    source-map-support "~0.5.20"
 
 test-exclude@^6.0.0:
   version "6.0.0"
