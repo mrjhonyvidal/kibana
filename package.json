@@ -291,7 +291,7 @@
     "minimatch": "^3.0.4",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "monaco-editor": "^0.22.3",
     "mustache": "^2.3.2",
     "ngreact": "^0.5.1",
