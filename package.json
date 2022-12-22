@@ -270,7 +270,7 @@
     "json-stable-stringify": "^1.0.1",
     "json-stringify-pretty-compact": "1.2.0",
     "json-stringify-safe": "5.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jsts": "^1.6.2",
     "kea": "^2.4.2",
     "less": "npm:@elastic/less@2.7.3-kibana",
